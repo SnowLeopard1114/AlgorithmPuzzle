@@ -1,5 +1,5 @@
 import java.util.*;
-public class AmazonFetchItemToDisplay {
+public class FetchItemToDisplay {
     public static List<String> fetchItemsToDisplay(String[][] items, int sortParameter, int sortOrder, int x, int y) {
         int start = x * y;
         if(start > items.length){

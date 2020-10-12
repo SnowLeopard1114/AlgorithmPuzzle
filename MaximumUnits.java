@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AmazonMaximumUnits {
+public class MaximumUnits {
     public static void main(String[] args) {
         ArrayList<Integer> boxes = new ArrayList<>(Arrays.asList(1, 2, 4, 10));
         List<Integer> unitsPerBox = new ArrayList<>(Arrays.asList(5, 6, 7, 100));

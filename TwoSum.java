@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class AmazonTwoSum {
+public class TwoSum {
     public static void main(String[] args) {
         int[] nums = new int[]{1, 1, 2, 45, 46, 46};
 

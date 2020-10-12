@@ -1,4 +1,4 @@
-public class Amazon2DServers {
+public class 2DServers {
     public static void main(String[] args) {
         String[] grid = new String[3];
         grid[0] = "aabba";

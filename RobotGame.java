@@ -8,7 +8,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class AmazonRobotGame {
+public class RobotGame {
     public static void main(String[] args) {
         String[] input = new String[8];
         input[0] = "5";

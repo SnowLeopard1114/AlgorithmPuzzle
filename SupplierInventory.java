@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AmazonSupplierInventory {
+public class SupplierInventory {
     public static void main(String[] args) {
         List<Long> list = new ArrayList<>(Arrays.asList(3L, 5L));
         System.out.println(supplierInventory(2, list, 6L));
